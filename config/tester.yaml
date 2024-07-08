@@ -11,8 +11,8 @@ gnodeb:
     tac: "000001"
     gnbid: "000003"
   slicesupportlist:
-    sst: "01"
-    sd: "1fffff"
+    sst: "1"
+    sd: "1"
   test: "test-normal-registration"
 ue:
   msin: "0000000043"
@@ -26,7 +26,7 @@ ue:
     mnc: "95"
   snssai:
     sst: 1
-    sd: "1fffff"
+    sd: "1"
   integrity:
     nia0: false
     nia1: false
