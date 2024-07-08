@@ -11,7 +11,7 @@ gnodeb:
     tac: "000001"
     gnbid: "000003"
   slicesupportlist:
-    sst: "1"
+    sst: "01"
     sd: "000001"
   test: "test-normal-registration"
 ue:
