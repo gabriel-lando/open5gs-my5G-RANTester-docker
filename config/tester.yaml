@@ -6,13 +6,13 @@ gnodeb:
     ip: "172.22.0.23"
     port: 2152
   plmnlist:
-    mcc: "999"
-    mnc: "70"
+    mcc: "208"
+    mnc: "95"
     tac: "000001"
     gnbid: "000003"
   slicesupportlist:
     sst: "01"
-    sd: "000001"
+    sd: "33554431"
   test: "test-normal-registration"
 ue:
   msin: "0000000043"
@@ -22,11 +22,11 @@ ue:
   sqn: "0000000"
   dnn: "default"
   hplmn:
-    mcc: "999"
-    mnc: "70"
+    mcc: "208"
+    mnc: "95"
   snssai:
     sst: 1
-    sd: "000001"
+    sd: "33554431"
   integrity:
     nia0: false
     nia1: false
